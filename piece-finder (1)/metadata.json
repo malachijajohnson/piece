@@ -1,0 +1,7 @@
+{
+  "name": "Piece Finder",
+  "description": "Scan clothing items to find them for sale online using advanced visual recognition and search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
